@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">crazyFrog</string>
+    <string name="app_name">Crazy Frog</string>
+    <string name="main_title">Welcome!</string>
+    <string name="intro_text">to the Crazy Frog World! Here you can find all things Crazy Frog: Facts, songs, a soundboard and even  a live location tracker! Ding Ding!</string>
+    <string name="title_songs">Popular Songs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="song_one_link" translatable="false">https://www.youtube.com/watch?v=k85mRPqvMbE</string>
+    <string name="song_one">Axel F</string>
+    <string name="song_two">In the 80\'s</string>
+    <string name="song_two_link" translatable="false">https://www.youtube.com/watch?v=durkwtNgHy8</string>
+    <string name="song_three">I like to move it</string>
+    <string name="song_three_link" translatable="false">https://www.youtube.com/watch?v=durkwtNgHy8</string>
+    <string name="song_four">The Flash</string>
+    <string name="song_four_link" translatable="false">https://www.youtube.com/watch?v=durkwtNgHy8</string>
+    <string name="song_five">Jingle Bells</string>
+    <string name="song_five_link" translatable="false">https://www.youtube.com/watch?v=DeT8JqNf7zg</string>
+    <string name="song_six">Popcorn</string>
+    <string name="song_six_link" translatable="false">https://www.youtube.com/watch?v=jwI1j7sslYI</string>
 </resources>

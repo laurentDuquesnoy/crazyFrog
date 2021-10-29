@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gekke Kikker</string>
+    <string name="main_title">Welkom!</string>
+    <string name="intro_text">"bij de gekke kikkerwereld! Hier vind je alles over Gekke  Kikker: leuke feitjes, liedjes, een klankbord en zelfs een live locatietracker! Ding Ding!  "</string>
+    <string name="title_songs">Populaire liedjes</string>
+    <string name="song_one">Aksel F</string>
+    <string name="song_two" translatable="false">In de jaren 80</string>
+    <string name="song_three">Ik beweeg graag</string>
+    <string name="song_four">De Flits</string>
+    <string name="song_five">Rinkelbellen</string>
+    <string name="song_six">Ontploffende Maïs</string>
+</resources>
