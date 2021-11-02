@@ -18,4 +18,9 @@
     <string name="city_one">nieuw York</string>
     <string name="city_two">Londen</string>
     <string name="city_four">Brugge</string>
+    <string name="title_facts">Snelle Feitjes</string>
+    <string name="fact_one">"Gekke Kikker, origineel gekend als het vervelende ding, is een geanimeerd Zweeds computermodel dat muziek maakt. "</string>
+    <string name="fact_two">Het karakter Gekke Kikker is gemaakt in 2003 door de Zweedse animator Erik Wernquist, afkomstig uit Stockholm.</string>
+    <string name="fact_three">Gekke Kikker was het meest gekend in Turkije, Nieuw Zeeland, Australië en het merendeel van Europa. Hierna werd hij ook een wereldwijd succes.</string>
+    <string name="fact_four">"In 1997, nam de 17 jarige student Daniel Malmedahl uit Gothenburg zichzelf op toen hij een tweetaktmotor nadeed. Hij zette dit online en iemand heeft deze geluiden bewerkt. Toen geschiedde de geboorte van Crazy Frog. "</string>
 </resources>
