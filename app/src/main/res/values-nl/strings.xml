@@ -10,4 +10,12 @@
     <string name="song_four">De Flits</string>
     <string name="song_five">Rinkelbellen</string>
     <string name="song_six">Ontploffende Maïs</string>
+    <string name="link_description">Koppeling</string>
+    <string name="title_locator">Waar zit dat vervelende ding?</string>
+    <string name="button_locator">Lokaliseer</string>
+    <string name="title_activity_locator">lokalisator</string>
+    <string name="location_preposition">"Gekke kikker is momenteel in "</string>
+    <string name="city_one">nieuw York</string>
+    <string name="city_two">Londen</string>
+    <string name="city_four">Brugge</string>
 </resources>

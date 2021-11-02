@@ -17,4 +17,14 @@
     <string name="song_five_link" translatable="false">https://www.youtube.com/watch?v=DeT8JqNf7zg</string>
     <string name="song_six">Popcorn</string>
     <string name="song_six_link" translatable="false">https://www.youtube.com/watch?v=jwI1j7sslYI</string>
+    <string name="link_description">link</string>
+    <string name="title_locator">Where\'s that annoying thing?</string>
+    <string name="button_locator">locate</string>
+    <string name="title_activity_locator">Locator</string>
+    <string name="location_preposition">Crazy frog is currently in</string>
+    <string name="city_one">New York</string>
+    <string name="city_two">London</string>
+    <string name="city_three" translatable="false">Kortrijk</string>
+    <string name="city_four">Bruges</string>
+    <string name="city_five" translatable="false">Vichte</string>
 </resources>
