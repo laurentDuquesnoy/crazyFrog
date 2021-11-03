@@ -33,4 +33,7 @@
     <string name="fact_three">Crazy Frog was most popular in Turkey,  New Zealand, Australia and most of Europe.  After that, he was also successful around the world.</string>
     <string name="fact_four">In 1997, 17-year-old Gothenburg student Daniel Malmedahl recorded himself imitating the noises produced by a two stroke engine. Someone picked it up and created crazy frog by warping these sounds.</string>
     <string name="title_soundboard">Soundboard</string>
+    <string name="sound_one" translatable="false">Ding Ding</string>
+    <string name="sound_two" translatable="false">Axel F Remix</string>
+    <string name="sound_three" translatable="false">Special Frog</string>
 </resources>

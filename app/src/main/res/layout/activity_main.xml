@@ -173,7 +173,11 @@
                 android:text="@string/title_soundboard"
                 style="@style/titleStyle"
                 android:layout_marginBottom="10dp"/>
-
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:name="com.frog.crazyfrog.Soundboard"
+                android:id="@+id/soundboard"/>
         </LinearLayout>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
