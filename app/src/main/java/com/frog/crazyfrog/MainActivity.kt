@@ -33,5 +33,4 @@ class MainActivity : AppCompatActivity() {
         val adapter = ArrayAdapter(this, R.layout.facts_list_item, facts)
         binding.factList.adapter = adapter
     }
-
 }
